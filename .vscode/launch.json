@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Powderkeg (DesktopVK)",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Platforms/DesktopVK/Powderkeg.DesktopVK.csproj",
+            "preLaunchTask": "Build: DesktopVK"
+        }
+    ]
+}

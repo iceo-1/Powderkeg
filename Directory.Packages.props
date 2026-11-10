@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <MonoGameVersion>3.8.*</MonoGameVersion>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "DesktopVK",
+    "Projects": [
+      {
+        "Path": "Platforms\\DesktopVK\\Powderkeg.DesktopVK.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Content\\Content.csproj",
+        "Action": "None"
+      }
+    ]
+  }
+]
